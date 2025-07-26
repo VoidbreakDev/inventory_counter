@@ -1,0 +1,10 @@
+# Python virtual environment
+.venv/
+# macOS file metadata
+.DS_Store
+# SQLite database
+inventory.db
+# Model artifacts
+data/models/*.mlmodel
+# Logs or temporary files
+*.log
